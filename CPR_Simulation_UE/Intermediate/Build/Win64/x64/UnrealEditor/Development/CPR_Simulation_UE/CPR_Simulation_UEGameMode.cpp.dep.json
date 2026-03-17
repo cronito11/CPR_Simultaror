@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\centennial\\simulation\\cpr_simulation\\cpr_simulation_ue\\source\\cpr_simulation_ue\\cpr_simulation_uegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\centennial\\simulation\\cpr_simulation\\cpr_simulation_ue\\intermediate\\build\\win64\\x64\\cpr_simulation_ueeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\centennial\\simulation\\cpr_simulation\\cpr_simulation_ue\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpr_simulation_ue\\definitions.cpr_simulation_ue.h",
+            "c:\\centennial\\simulation\\cpr_simulation\\cpr_simulation_ue\\source\\cpr_simulation_ue\\cpr_simulation_uegamemode.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\centennial\\simulation\\cpr_simulation\\cpr_simulation_ue\\intermediate\\build\\win64\\unrealeditor\\inc\\cpr_simulation_ue\\uht\\cpr_simulation_uegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
