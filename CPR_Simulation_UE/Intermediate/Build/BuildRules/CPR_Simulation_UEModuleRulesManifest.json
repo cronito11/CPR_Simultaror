@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Centennial\\Simulation\\CPR_Simulation\\CPR_Simulation_UE\\Source\\CPR_Simulation_UE\\CPR_Simulation_UE.Build.cs",
-		"C:\\Centennial\\Simulation\\CPR_Simulation\\CPR_Simulation_UE\\Source\\CPR_Simulation_UE.Target.cs",
-		"C:\\Centennial\\Simulation\\CPR_Simulation\\CPR_Simulation_UE\\Source\\CPR_Simulation_UEEditor.Target.cs"
-	],
-	"EngineVersion": "5.7.3"
-}
